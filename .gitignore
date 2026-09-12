@@ -1,0 +1,11 @@
+# Godot 4 生成的本地缓存目录
+.godot/
+*.tmp
+
+# 构建产物（发布走 GitHub Releases，不进 git）
+*.exe
+build/
+export/
+
+# ZCode 本地会话目录
+.zcode/
