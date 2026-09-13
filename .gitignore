@@ -4,8 +4,13 @@
 
 # 构建产物（发布走 GitHub Releases，不进 git）
 *.exe
+*.pck
+*.zip
 build/
 export/
+
+# 本地备份文件夹
+备份/
 
 # ZCode 本地会话目录
 .zcode/
